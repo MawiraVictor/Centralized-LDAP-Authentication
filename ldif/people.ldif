@@ -1,0 +1,3 @@
+dn: ou=people,dc=ozy,dc=cns
+objectClass: organizationalUnit
+ou: people
