@@ -1,0 +1,11 @@
+dn: uid=netmgt,ou=people,dc=ozy,dc=cns
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Network Manager
+sn: Manager
+uid: netmgt
+uidNumber: 3000
+gidNumber: 5000
+loginShell: /bin/bash
+homeDirectory: /home/netmgt
